@@ -1,0 +1,76 @@
+body{
+    color:white;
+    background-image:url("../images/pexels-janko-ferlic-590478.jpg");
+}
+
+.aaaa{
+    font-style:white;
+}
+
+h1{
+    color: red;
+    font-family: monospace;
+}
+figure{
+    padding:8px;
+    border:5px groove black;
+    box-shadow:0px 0px 17px rgb(0, 0, 0);
+    border-radius:10px;
+    height:210px;
+    
+}
+img{
+    width:100%;
+    height:90%;
+}
+.strr{
+    color:yellow;
+
+}
+.logoo{
+    width: 10%;
+    height:120px;
+    float:left;
+}
+
+
+.label.logo {
+    color:yellowgreen;
+    text-shadow:0px 2px 6px black;
+    font-size:35px;
+    line-height:80px;
+    padding-left:140px;
+    
+}
+nav ul li a:hover{
+    color:#ea1538
+}
+.navbar{
+    list-style-type: none;
+    display: inline-block;
+    
+    color:white;
+    text-decoration: none;
+    font-weight: bold;
+    color:#ea1538;
+    transition:.3s;
+    margin:0 230px;
+
+}
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 20px;
+     
+}
+nav ul li a{
+    color:white;
+    text-decoration: none;
+    font-weight: bold;
+}
+nav ul li a:hover{
+    color:#ea1538;
+    transition:.3s;
+
+
+}

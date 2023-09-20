@@ -1,0 +1,78 @@
+body{
+    background-image:url("../images/temple-6963458_960_720.jpg");
+    color:white;
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+}
+.acot{
+
+    display:inline-block;
+    vertical-align: top;
+}
+h2{
+    color :red;
+
+}
+a{
+    text-decoration: none underline;
+    color:white;
+}
+img{
+    height:130px;
+    
+}
+.sush{
+    width: 247px;
+}
+.logoo{
+    width: 10%;
+    height:120px;
+    float:left;
+}
+h1{
+    color: red;
+    font-family: monospace;
+}
+
+
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 20px;
+     
+}
+nav ul li a{
+    color:white;
+    text-decoration: none;
+    font-weight: bold;
+}
+nav ul li a:hover{
+    color:#ea1538;
+    transition:.3s;
+
+
+}
+.navbar{
+    list-style-type: none;
+    display: inline-block;
+    
+    color:white;
+    text-decoration: none;
+    font-weight: bold;
+    color:#ea1538;
+    transition:.3s;
+    margin:0 250px;
+
+}
+.label.logo {
+    color:yellowgreen;
+    text-shadow:0px 2px 6px black;
+    font-size:35px;
+    line-height:80px;
+    padding-left:140px;
+    
+}
+nav ul li a:hover{
+    color:#ea1538
+}
